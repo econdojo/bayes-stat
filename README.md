@@ -14,7 +14,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 ## Lecture Slides
 
 * [Lecture 1: Basic Concepts of Probability and Inference](/pdf/Bayeslec1.pdf)
-* [Lecture 2: Posterior Distributions and Inference](/pdf/E6930Slides2.pdf)
+* [Lecture 2: Posterior Distributions and Inference](/pdf/Bayeslec2.pdf)
 * [Lecture 3: Prior Distributions](/pdf/E6930Slides3.pdf)
 * [Lecture 4: Classical Simulation](/pdf/E6930Slides4.pdf)
 * [Lecture 5: Basics of Markov Chains](/pdf/E6930Slides5.pdf)

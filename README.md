@@ -10,6 +10,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 * **Syllabus:** [Spring 2025](/pdf/E6100syllabus.pdf)
 * **Discord:** [Econ Hub](https://discord.gg/SsrNPEeP2P)
+* **GitHub Classroom:** [classroom.github.com](https://classroom.github.com)
 
 ## Lecture Slides
 

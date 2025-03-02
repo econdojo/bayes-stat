@@ -16,13 +16,13 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 * [Lecture 1: Basic Concepts of Probability and Inference](/pdf/Bayeslec1.pdf)
 * [Lecture 2: Posterior Distributions and Inference](/pdf/Bayeslec2.pdf)
-* [Lecture 3: Prior Distributions](/pdf/E6930Slides3.pdf)
-* [Lecture 4: Classical Simulation](/pdf/E6930Slides4.pdf)
-* [Lecture 5: Basics of Markov Chains](/pdf/E6930Slides5.pdf)
-* [Lecture 6: Simulation by MCMC Methods](/pdf/E6930Slides6.pdf)
-* [Lecture 7: Linear Regression and Extensions](/pdf/E6930Slides7.pdf)
-* [Lecture 8: Multivariate Responses](/pdf/E6930Slides8.pdf)
-* [Lecture 9: Time Series](/pdf/E6930Slides9.pdf)
+* [Lecture 3: Prior Distributions](/pdf/Bayeslec3.pdf)
+* [Lecture 4: Classical Simulation](/pdf/Bayeslec4.pdf)
+* [Lecture 5: Basics of Markov Chains](/pdf/Bayeslec5.pdf)
+* [Lecture 6: Simulation by MCMC Methods](/pdf/Bayeslec6.pdf)
+* [Lecture 7: Linear Regression and Extensions](/pdf/Bayeslec7.pdf)
+* [Lecture 8: Multivariate Responses](/pdf/Bayeslec8.pdf)
+* [Lecture 9: Time Series](/pdf/Bayeslec9.pdf)
 
 ## Python Programs
 

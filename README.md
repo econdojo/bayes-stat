@@ -23,6 +23,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 7: Linear Regression and Extensions](/pdf/Bayeslec7.pdf)
 * [Lecture 8: Multivariate Responses](/pdf/Bayeslec8.pdf)
 * [Lecture 9: Time Series](/pdf/Bayeslec9.pdf)
+* [Lecture 10: Bayesian DSGE Models](/pdf/Bayeslec10.pdf)
 
 ## Python Programs
 
